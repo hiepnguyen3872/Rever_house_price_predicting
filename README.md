@@ -19,8 +19,14 @@ $ cd Rever_house-value_predicting
 ```
 
 ```sh
-$ git clone https://github.com/hiepnguyen3872/Rever_house-value_predicting
-$ cd Rever_house-value_predicting
+$ tar -xf ./model/model.zip --directory ./model  
+$ tar -xf ./data_overview/data_overview.zip --directory ./data_overview
 ```
 
 ### Executing program
+- To predict house' sell price: 
+```sh
+$ python main.py data_path output_file_path
+```
+data_path is path to file data, and file data must be in .csv type
+output_file_path is path to file will store result (house's sell price predict)
