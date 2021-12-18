@@ -28,9 +28,9 @@ $ tar -xf ./data_overview/data_overview.zip --directory ./data_overview
 ```sh
 $ python main.py data_path output_file_path
 ```
-data_path is path to file data, and file data must be in .csv type.
+data_path is the path to data file, and data file must be in .csv type.
 
-output_file_path is path to file will store result (house's sell price predict)
+output_file_path is the path to file that will store result (house's sell price predict)
 
 - To predict house' rental price, we just have to add flag 1: 
 ```sh
