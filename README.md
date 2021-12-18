@@ -3,7 +3,7 @@
 This project is about using Machine Learning to predict a house's price
 
 ## Description
-This project is implemented in python language, use Random Forest Regressor Algorithm to predict a house's price
+This project is implemented in python language, use Linear Regression, Regressor Tree and TreeRandom Forest Regressor Algorithm to predict a house's price
 
 ## Getting Started
 
