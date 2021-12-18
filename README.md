@@ -32,7 +32,7 @@ data_path is the path to data file, and data file must be in .csv type.
 
 output_file_path is the path to file that will store result (house's sell price predict)
 
-- To predict house' rental price, we just have to add flag 1: 
+- To predict house' rental price, you just have to add flag 1: 
 ```sh
 $ python main.py data_path output_file_path 1
 ```
