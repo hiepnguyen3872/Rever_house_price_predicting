@@ -28,5 +28,6 @@ $ tar -xf ./data_overview/data_overview.zip --directory ./data_overview
 ```sh
 $ python main.py data_path output_file_path
 ```
-data_path is path to file data, and file data must be in .csv type
+data_path is path to file data, and file data must be in .csv type.
+
 output_file_path is path to file will store result (house's sell price predict)
