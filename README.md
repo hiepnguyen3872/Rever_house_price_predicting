@@ -1,4 +1,4 @@
-# Rever_house_sell_predicting
+# Rever_house_price_predicting
 
 This project is about using Machine Learning to predict a house's price
 
@@ -14,8 +14,8 @@ This project is implemented in python language, use Linear Regression, Regressor
 ### Installing
 
 ```sh
-$ git clone https://github.com/hiepnguyen3872/Rever_house_sell_predicting
-$ cd Rever_house_sell_predicting
+$ git clone https://github.com/hiepnguyen3872/Rever_house_price_predicting
+$ cd Rever_house_price_predicting
 ```
 
 ```sh
