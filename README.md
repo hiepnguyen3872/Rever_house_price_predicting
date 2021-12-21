@@ -14,8 +14,8 @@ This project is implemented in python language, use Linear Regression, Regressor
 ### Installing
 
 ```sh
-$ git clone https://github.com/hiepnguyen3872/Rever_house-value_predicting
-$ cd Rever_house-value_predicting
+$ git clone https://github.com/hiepnguyen3872/Rever_house_sell_predicting
+$ cd Rever_house_sell_predicting
 ```
 
 ```sh
