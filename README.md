@@ -1,4 +1,4 @@
-# Rever_house-value_predicting
+# Rever_house_sell_predicting
 
 This project is about using Machine Learning to predict a house's price
 
